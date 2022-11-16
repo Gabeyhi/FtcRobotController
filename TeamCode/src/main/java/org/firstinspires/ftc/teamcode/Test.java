@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.hardware.Gamepad;
 
-@Teleop(name="TestBalls", group="TeleOp")
+@TeleOp(name="TestBalls", group="TeleOp")
 public class Test extends LinearOpMode {
 
 
